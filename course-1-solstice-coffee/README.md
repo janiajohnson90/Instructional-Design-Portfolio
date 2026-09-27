@@ -58,14 +58,6 @@ By the end of this course, learners are able to:
 
 ---
 
-## Assets Used
-
-- Custom-built café floor plan graphic (labeled hotspot interaction)
-- Custom-built mock POS interface graphic (labeled hotspot interaction)
-- Custom-built back-of-house safety map graphic (labeled hotspot interaction)
-- Warm terracotta / sand / sage color palette, chosen to feel specific to a specialty coffee brand rather than a generic corporate template
-
----
 
 ## Files in This Folder
 
