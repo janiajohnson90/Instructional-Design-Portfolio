@@ -32,8 +32,8 @@ Courses are published as standalone HTML5 builds, so they run directly in the br
 ## 🧰 Tools & Skills
 
 - **Authoring tools:** Articulate Storyline 360, Articulate Rise 360
-- **Design tools:** [Canva / Figma / PowerPoint — list whichever you used] for custom graphics and UI mockups
-- **Instructional design skills:** learning objective design, scenario-based learning, branching logic, knowledge check and assessment design, accessibility basics (alt text, color contrast, keyboard navigation)
+- **Design tools:** Canva, PowerPoint, AI image creation
+- **Instructional design skills:** ADDIE Methodology, learning objective design, scenario-based learning, branching logic, knowledge check and assessment design, accessibility basics (alt text, color contrast, keyboard navigation)
 - **Delivery formats:** SCORM-ready packages and standalone HTML5 exports
 
 ---
