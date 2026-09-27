@@ -1,4 +1,3 @@
-# Instructional-Design-Portfolio
 # Instructional Design Portfolio
 
 Hi! I'm Jania Johnson, an instructional designer with hands-on experience building e-learning in **Articulate Storyline 360** and **Articulate Rise 360**. This repository holds the source files, exported course builds, and design documentation for my portfolio projects.
