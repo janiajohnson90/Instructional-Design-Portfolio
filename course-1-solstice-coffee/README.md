@@ -1,1 +1,1 @@
-# Solstice Coffee Co. Onboarding"
+# Solstice Coffee Co. Onboarding
