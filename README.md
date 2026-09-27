@@ -5,7 +5,7 @@ Each course below was built for a fictitious company to demonstrate a specific s
 
 ---
 
-## 📚 Courses
+## Courses
 
 | # | Course | Company (Fictitious) | Tool | Status | Skills Demonstrated |
 |---|--------|----------------------|------|--------|----------------------|
