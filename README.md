@@ -10,7 +10,7 @@ Each course below was built for a fictitious company to demonstrate a specific s
 
 | # | Course | Company (Fictitious) | Tool | Status | Skills Demonstrated |
 |---|--------|----------------------|------|--------|----------------------|
-| 1 | [Welcome to Solstice Coffee Co.](./course-1-solstice-coffee) | Solstice Coffee Co. | Rise 360 | ✅ Complete | Microlearning layout, interactive blocks (labeled graphics, flashcards, matching, timeline), gated navigation, knowledge checks |
+| 1 | [Welcome to Solstice Coffee Co.](https://janiajohnson90.github.io/Instructional-Design-Portfolio/course-1-solstice-coffee/build/) | Solstice Coffee Co. | Rise 360 | ✅ Complete | Microlearning layout, interactive blocks (labeled graphics, flashcards, matching, timeline), gated navigation, knowledge checks |
 | 2 | Doing the Right Thing: Workplace Conduct & Ethics | Harborview Financial | Storyline 360 | 🚧 In Progress | Branching scenarios, variables, custom navigation, layered interactions, consequence-based decision design |
 | 3 | Mastering MediChart | Meridian Health Systems | Storyline 360 | 🚧 In Progress | Software simulation (view/try/test modes), custom UI mockups, freeform hotspot assessments |
 
@@ -20,7 +20,7 @@ Each course below was built for a fictitious company to demonstrate a specific s
 
 ## 🎬 View the Courses Live
 
-- **Course 1 — Solstice Coffee Co. Onboarding:** [Live course link](#) *(coming soon — hosted via GitHub Pages)*
+- **Course 1 — Solstice Coffee Co. Onboarding:** (https://janiajohnson90.github.io/Instructional-Design-Portfolio/course-1-solstice-coffee/build/)
 - **Course 2 — Harborview Financial Ethics Training:** *(in progress)*
 - **Course 3 — Meridian MediChart Training:** *(in progress)*
 
