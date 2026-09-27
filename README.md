@@ -20,7 +20,7 @@ Each course below was built for a fictitious company to demonstrate a specific s
 
 ## 🎬 View the Courses Live
 
-- **Course 1 — Solstice Coffee Co. Onboarding:** (https://janiajohnson90.github.io/Instructional-Design-Portfolio/course-1-solstice-coffee/build/)
+- **Course 1 — Solstice Coffee Co. Onboarding:** [Live Course Link](https://janiajohnson90.github.io/Instructional-Design-Portfolio/course-1-solstice-coffee/build/)
 - **Course 2 — Harborview Financial Ethics Training:** *(in progress)*
 - **Course 3 — Meridian MediChart Training:** *(in progress)*
 
@@ -28,29 +28,6 @@ Courses are published as standalone HTML5 builds, so they run directly in the br
 
 ---
 
-## 🗂 Repository Structure
-
-```
-instructional-design-portfolio/
-├── README.md                      ← you are here
-├── course-1-solstice-coffee/
-│   ├── README.md                  ← course-specific case study
-│   ├── source/                    ← .rise project export / working files
-│   ├── build/                     ← exported HTML5 course files (index.html, etc.)
-│   └── assets/                    ← custom graphics (floor plan, POS mockup, etc.)
-├── course-2-harborview-financial/
-│   ├── README.md
-│   ├── source/
-│   ├── build/
-│   └── assets/                    ← branching flowchart, character art, etc.
-└── course-3-meridian-medichart/
-    ├── README.md
-    ├── source/
-    ├── build/
-    └── assets/                    ← EHR UI mockup screens
-```
-
----
 
 ## 🧰 Tools & Skills
 
