@@ -77,7 +77,7 @@ A software training course for a fictitious healthcare provider's new (fictitiou
 
 ## 📬 Contact
 
-**[Your Name]**
-[your email] · [LinkedIn] · [portfolio website, if any]
+**Jania Johnson**
+janiajohnson90@gmail.com · [https://www.linkedin.com/in/jania-johnson-b82aa0206/]
 
 *All companies, brands, and scenarios in this repository are fictitious and created solely for portfolio demonstration purposes.*
